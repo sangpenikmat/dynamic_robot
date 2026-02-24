@@ -2,7 +2,6 @@
 
 **Goal:** Implementation of a proportional vector-based avoidance system for a differential drive robot to reach a goal coordinate while navigating through static obstacles.
 
-[Image of LiDAR sector analysis for mobile robot navigation]
 
 ## Features
 * **Goal Seeking:** Uses Odometry data to calculate the heading toward a specific (x, y) coordinate.
